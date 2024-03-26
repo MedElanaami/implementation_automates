@@ -1,7 +1,7 @@
 # ninja log v5
-31	46	1710955769824102643	implementation_automates	d7cdaf1b6ed4e59
-0	31	1710955769808139729	CMakeFiles/implementation_automates.dir/main.c.o	4baf3610df21b30
-0	32	1710956436510408947	CMakeFiles/implementation_automates.dir/main.c.o	4baf3610df21b30
-32	51	1710956436530407590	implementation_automates	d7cdaf1b6ed4e59
-0	30	1710956554835188335	CMakeFiles/implementation_automates.dir/main.c.o	4baf3610df21b30
-30	48	1710956554851188376	implementation_automates	d7cdaf1b6ed4e59
+52	83	1711447969986777102	implementation_automates	d7cdaf1b6ed4e59
+0	34	1711448043263135332	build.ninja	260ce4f3392dbe4
+0	51	1711447969954776946	CMakeFiles/implementation_automates.dir/main.c.o	4baf3610df21b30
+1	36	1711020322156572480	CMakeFiles/implementation_automates.dir/tp4.c.o	f11b4a4b050d232
+0	45	1711448046499151152	CMakeFiles/implementation_automates.dir/main.c.o	4baf3610df21b30
+45	68	1711448046519151250	implementation_automates	d7cdaf1b6ed4e59
