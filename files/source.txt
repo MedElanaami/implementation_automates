@@ -1,0 +1,1 @@
+si a>b alors b=8 sinon si a<b b=7 sinon b=6
