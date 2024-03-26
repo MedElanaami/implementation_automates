@@ -1,2 +1,4 @@
 ./cmake-build-debug
-.CMakeLists.txt
+./cmake-build-debug/CMakeFiles
+./.idea
+CMakeLists.txt
