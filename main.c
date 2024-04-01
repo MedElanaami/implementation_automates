@@ -83,7 +83,6 @@ void retourner(int nbrCar, FILE *file)
 
 Automate echec(int nbrCar, FILE *file)
 {
-    //
     retourner(nbrCar, file);
     switch (etatInitial)
     {
